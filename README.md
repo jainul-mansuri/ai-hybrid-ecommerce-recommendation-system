@@ -16,7 +16,7 @@
 </p>
 
 
-> **DEBIAS a recommender system that also doubles as a consumer-centric platform for digital commerce.**  
+> **AI-HYBRID a recommender system that also doubles as a consumer-centric platform for digital commerce.**  
 > It combines semantic understanding, budget awareness, and debiased learning to ensure users discover products that are *relevant, affordable, and fair* and *also popular*.
 
 ---
@@ -37,9 +37,9 @@ DEBIAS rethinks product discovery by embedding **economic intelligence and fairn
 
 ---
 
-## 🧠 How DEBIAS Works
+## 🧠 How AI-HYBRID Works
 
-DEBIAS introduces a **three-layer intelligence stack**:
+AI-HYBRID introduces a **three-layer intelligence stack**:
 
 | Layer | Description |
 |------|------------|
@@ -53,7 +53,7 @@ This ensures that affordable, high-value products are not unfairly under-ranked.
 
 ## 🏛️ System Architecture
 
-DEBIAS is designed as a **modular, scalable, and consumer-first platform** that integrates real-time interaction tracking, semantic retrieval, and behavioral reasoning.
+AI-HYBRID is designed as a **modular, scalable, and consumer-first platform** that integrates real-time interaction tracking, semantic retrieval, and behavioral reasoning.
 
 <p align="center">
   <img src="./assets/ai-hybrid-ecommerce-recommendation-system-architecture.png" alt="DEBIAS System Architecture" width="100%"/>
@@ -131,7 +131,7 @@ DEBIAS is designed as a **modular, scalable, and consumer-first platform** that 
 
 ## ⚡Qdrant Implementation⚡
 
-DEBIAS leverages **Qdrant** as its high-performance vector database for semantic product search and multimodal retrieval.
+AI-HYBRID leverages **Qdrant** as its high-performance vector database for semantic product search and multimodal retrieval.
 
 ### Embedding Models
 

@@ -4,7 +4,7 @@
 
 <p align="center">
   <span style="font-size:1.5em;">
-    Debiased E-Commerce Search with Budget-Aware Intelligence
+    AI Hybrid E-Commerce Search with Budget-Aware Intelligence
   </span>
 </p>
 

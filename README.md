@@ -289,8 +289,5 @@ DEBIAS enables:
 
 ## 👨‍💻 Team
 
-- **Youssef Abid**
-- **Ala Eddine Zaouali**
-- **Noursine Amira**
-- **Adem Saidi**
-- **Younes Abbes**
+- **Jainul Mansuri**
+- **Sohail Khan**
